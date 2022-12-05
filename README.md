@@ -6,6 +6,8 @@
 This is a rubust, flexibale and scalable solution that prevents scenarios where a user is able to cheat in a digital world.
 The solution is a contribution to the Tezos developer comminuty - it's open source (MIT license)
 
+![image](https://user-images.githubusercontent.com/2120817/205598885-e9aa8700-d064-4dc5-8d06-5afb7510409f.png)
+
 ### Live Demo
 
 https://metaverse-anti-cheat.netlify.app/ 
