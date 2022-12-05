@@ -1,8 +1,6 @@
 # Metaverse-Anti-Cheat
 [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
-Metaverse Anti Cheat 
-
 ### Summary
 
 This is a rubust, flexibale and scalable solution that prevents scenarios where a user is able to cheat in a digital world.
