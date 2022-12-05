@@ -3,8 +3,8 @@
 
 ### Summary
 
-This is a rubust, flexibale and scalable solution that prevents scenarios where a user is able to cheat in a digital world.
-The solution is a contribution to the Tezos developer comminuty - it's open source (MIT license)
+This is a robust, flexible and scalable solution that prevents scenarios where a user is able to cheat in a digital world.
+The solution is a contribution to the Tezos developer community - it's open source (MIT license)
 
 ![Metaverse_AntiCheat_Demo1](https://user-images.githubusercontent.com/2120817/205599045-5d3c278b-5b8e-4fdf-87a7-23bf3ce6057c.gif)
 
@@ -12,14 +12,14 @@ The solution is a contribution to the Tezos developer comminuty - it's open sour
 
 https://metaverse-anti-cheat.netlify.app/ 
 
-This is an implemenatation of Metaverse-Anti-Cheat with Flexcrow. It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play and winner gets .2 tez. Test the system by clicking the [JS Injection Cheat] button during gameplay.
+This is an implementation of Metaverse-Anti-Cheat with Flexcrow. It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play and winner gets .2 tez. Test the system by clicking the [JS Injection Cheat] button during gameplay.
 
 ### White Paper
 
 https://blockchain-alchemy.gitbook.io/metaverse-anti-cheat-whitepaper/
 
 ### Concept
-Metaverse Anti-Cheat addresses the most common vulnerabilities in blockchain gaming. It secures the vulnarbility of JS injection, where an attacker will  get between the game and web layer to spoof win scenarios.
+Metaverse Anti-Cheat addresses the most common vulnerabilities in blockchain gaming. It secures the vulnerability of JS injection, where an attacker will get between the game and web layer to spoof win scenarios.
 
 ### UI and UX
 
@@ -41,9 +41,9 @@ JAKARTANET Testnet:
 
 ### Limitations, Potential Risks and Security Questions
 
-Metaverse Anti-Cheat is created to secure against the most common attack: JS injection, however attackers will find new attacks and this package will be mmaintained and used actively in the games we publish and deploy.
+Metaverse Anti-Cheat is created to secure against the most common attack: JS injection, however attackers will find new attacks and this package will be maintained and used actively in the games we publish and deploy.
 
-### Prequisites
+### Prerequisites
 The following dependencies are required to run Flexscrow:
 
 | Dependency | Version             |
