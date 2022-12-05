@@ -12,7 +12,7 @@ https://flexscrow.netlify.app/
 
 ### White Paper
 
-https://app.gitbook.com/o/aTWt2obfN1vNq08b4M9B/s/jqAvpLnkm8KsKyP709L8/
+https://blockchain-alchemy.gitbook.io/metaverse-anti-cheat-whitepaper/
 
 ### Concept
 Metaverse Anti-Cheat addresses the most common vulnerabilities in blockchain gaming. It secures the vulnarbility of JS injection, where an attacker will  get between the game and web layer to spoof win scenarios.
