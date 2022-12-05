@@ -12,7 +12,7 @@ The solution is a contribution to the Tezos developer community - it's open sour
 
 https://metaverse-anti-cheat.netlify.app/ 
 
-This is an implementation of Metaverse-Anti-Cheat with Flexcrow. It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play and winner gets .2 tez. Test the system by clicking the [JS Injection Cheat] button during gameplay.
+This is an implementation of Metaverse-Anti-Cheat with [Flexcrow](https://github.com/Blockchain-Alchemy/Flexscrow). It has been tested on testnet and is now deployed on mainnet. It requires .1 tez to play and winner gets .2 tez. Test the system by clicking the [JS Injection Cheat] button during gameplay.
 
 ### White Paper
 
@@ -56,5 +56,5 @@ Metaverse Anti-Cheat is designed to be used with [Flexcrow](https://github.com/B
 
 ### Maintain Support and Future Plans
 Metaverse Anti-Cheat  is created to be the Anti-Cheat system we'll be using and updating for all our projects. Some projects that will implement Flexcrow are:
-- PiXLtez
-- Tez Run
+- [PiXLtez](https://github.com/PiXLtez/PiXL-Public)
+- [Tez Run](https://github.com/Blockchain-Alchemy/Tez-Run-Public)
