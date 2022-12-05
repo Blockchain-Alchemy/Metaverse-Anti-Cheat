@@ -37,7 +37,7 @@ JAKARTANET Testnet:
 
 
 ### System Diagram
-![Metaverse Anti-Cheat Diagram](https://user-images.githubusercontent.com/2120817/205584602-d88875d5-e6d0-477e-b4e4-e742c6cdbf34.jpg)
+![Metaverse Anti-Cheat Diagram](https://user-images.githubusercontent.com/2120817/205624891-151e4e8f-6519-4f36-917e-273596d98436.png)
 
 ### Limitations, Potential Risks and Security Questions
 
