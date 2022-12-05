@@ -37,7 +37,8 @@ JAKARTANET Testnet:
 
 
 ### System Diagram
-![Metaverse Anti-Cheat Diagram](https://user-images.githubusercontent.com/2120817/205625089-1228330e-fc6d-4fee-8f18-205893c816af.jpg)
+![Metaverse Anti-Cheat Diagram](https://user-images.githubusercontent.com/2120817/205625573-e5a276e1-8c21-41d1-9957-d065a667feff.jpg)
+
 
 ### Limitations, Potential Risks and Security Questions
 Metaverse Anti-Cheat is created to secure against the most common attack: JS injection, however attackers will find new attacks and this package will be maintained and used actively in the games we publish and deploy.
