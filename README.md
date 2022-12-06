@@ -51,8 +51,7 @@ The following dependencies are required to run Flexscrow:
 
 ### Recommended Use
 
-Metaverse Anti-Cheat is designed to be used with [Flexcrow](https://github.com/Blockchain-Alchemy/Flexscrow) [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
-
+Metaverse Anti-Cheat is designed to be used with [Flexcrow](https://github.com/Blockchain-Alchemy/Flexscrow)
 ### Maintain Support and Future Plans
 Metaverse Anti-Cheat  is created to be the Anti-Cheat system we'll be using and updating for all our projects. Some projects that will implement Flexcrow are:
 - [PiXLtez](https://github.com/PiXLtez/PiXL-Public)
